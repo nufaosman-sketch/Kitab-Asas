@@ -1,11 +1,147 @@
-[
-  {
-    "id": 1,
-    "kod": "terjemahan-nirudzzolam",
-    "tajuk": "Pendahuluan",
-    "ms": 1,
-    "arab": "",
-    "terjemahan": "",
-    "nota": "Isi akan diisi kemudian berdasarkan kitab Terjemahan Nirudzzolam."
+{
+  "versi": "3.0",
+  "id": "terjemahan-nirudzzolam",
+  "nama": "Cahaya Kegelapan – Terjemahan Nur adz-Dzolam Syarah Aqidatul Awam",
+  "kategori": "Aqidah",
+  "meta": {
+    "sumber_pdf": "Terjemahan Nirudzzolam.pdf",
+    "sumber_asal": "Nur adz-Dzolam syarah Aqidatul Awam – Syeikh Nawawi al-Bantani; terjemahan Muhammad Ihsan bin Nuruddin Zuhri",
+    "dibina": "2025-11-26",
+    "nota": "Struktur ini hanya kerangka bab besar. Teks Arab dan terjemahan perlu diisikan kemudian secara manual berdasarkan kitab PDF."
+  },
+  "bab": [
+    {
+      "no": 1,
+      "kod": "mukaddimah-penerjemah",
+      "tajuk": "Mukaddimah Penerjemah",
+      "mula_ms": 2,
+      "tamat_ms": 3,
+      "ringkasan": "Penerangan niat, latar belakang penulisan dan harapan penerjemah terhadap manfaat kitab ini untuk para penuntut ilmu.",
+      "perenggan": [
+        {
+          "no": 1,
+          "arab": "",
+          "terjemahan": "",
+          "nota": "Isikan mukaddimah penerjemah – pengenalan ringkas tentang tujuan terjemahan, doa dan harapan."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "kod": "pendahuluan",
+      "tajuk": "Pendahuluan – Latar Belakang Kitab",
+      "mula_ms": 1,
+      "tamat_ms": 2,
+      "ringkasan": "Pengenalan kepada kitab Nur adz-Dzolam dan Aqidatul Awam, pengarangnya, dan kedudukan kedua-dua kitab dalam tradisi aqidah Ahlus Sunnah.",
+      "perenggan": [
+        {
+          "no": 1,
+          "arab": "",
+          "terjemahan": "",
+          "nota": "Isikan ringkasan tentang pengarang, tujuan karangan, dan kepentingan mempelajari aqidah."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "kod": "nadzom-awal-tauhid",
+      "tajuk": "Bahagian 1 – Nadzom Awal dan Asas Tauhid",
+      "mula_ms": 5,
+      "tamat_ms": 19,
+      "ringkasan": "Penjelasan nadzom pertama hingga keempat: pengertian basmalah, pujian kepada Allah, makna syukur, dan asas memuji Allah dengan penuh adab.",
+      "perenggan": [
+        {
+          "no": 1,
+          "arab": "",
+          "terjemahan": "",
+          "nota": "Isikan inti sari nadzom awal: makna nama Allah, ar-Rahman, ar-Rahim, kaedah memuji dan bersyukur."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "kod": "sifat-sifat-allah",
+      "tajuk": "Bahagian 2 – Sifat-Sifat Allah dan Penjelasan Tauhid",
+      "mula_ms": 34,
+      "tamat_ms": 55,
+      "ringkasan": "Penjelasan tentang sifat-sifat wajib bagi Allah, sifat mustahil dan sifat jaiz, serta cara mengajarkan sifat-sifat ini kepada orang awam.",
+      "perenggan": [
+        {
+          "no": 1,
+          "arab": "",
+          "terjemahan": "",
+          "nota": "Isikan huraian ringkas Sifat 20, pembahagian sifat Ma’ani dan lain-lain sebagaimana diterangkan dalam kitab."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "kod": "sifat-rasul-dan-rukun-iman",
+      "tajuk": "Bahagian 3 – Sifat Rasul dan Rukun-Rukun Iman",
+      "mula_ms": 55,
+      "tamat_ms": 120,
+      "ringkasan": "Perbahasan sifat wajib, mustahil dan jaiz bagi para rasul, kewajiban beriman kepada rasul-rasul, malaikat, kitab-kitab Allah, suhuf, dan perkara-perkara ghaib lain.",
+      "perenggan": [
+        {
+          "no": 1,
+          "arab": "",
+          "terjemahan": "",
+          "nota": "Isikan intipati rukun iman: malaikat, kitab, rasul, suhuf, perkara ghaib dan kaitannya dengan nadzom-nadzom di bahagian ini."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "kod": "hari-akhir-dan-perkara-ghaib",
+      "tajuk": "Bahagian 4 – Hari Akhir, Telaga, Syurga dan Neraka",
+      "mula_ms": 120,
+      "tamat_ms": 132,
+      "ringkasan": "Perbahasan tentang iman kepada hari akhir, peristiwa-peristiwa besar selepas mati, telaga Rasulullah, balasan syurga dan neraka.",
+      "perenggan": [
+        {
+          "no": 1,
+          "arab": "",
+          "terjemahan": "",
+          "nota": "Isikan ringkasan nadzom yang menyentuh tentang hari akhir, telaga, syafaat dan balasan amalan."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "kod": "sirah-nabi-dan-ahlul-bait",
+      "tajuk": "Bahagian 5 – Sirah Nabi, Ahlul Bait dan Para Sahabat",
+      "mula_ms": 136,
+      "tamat_ms": 199,
+      "ringkasan": "Perbincangan ringkas tentang nasab Rasulullah, kelahiran, perkahwinan, anak-anak, isteri-isteri, para sahabat utama dan Ahlul Bait.",
+      "perenggan": [
+        {
+          "no": 1,
+          "arab": "",
+          "terjemahan": "",
+          "nota": "Isikan bahagian yang menyentuh kelebihan Rasulullah, keluarga Baginda, para sahabat seperti Abu Bakar, Umar, Usman, Ali dan cucu-cucu Baginda."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "kod": "israk-mikraj-dan-penutup",
+      "tajuk": "Bahagian 6 – Israk Mikraj dan Penutup",
+      "mula_ms": 200,
+      "tamat_ms": 256,
+      "ringkasan": "Perbahasan tentang peristiwa Israk dan Mikraj, hikmah di sebaliknya, kemudian diakhiri dengan penutup dan doa.",
+      "perenggan": [
+        {
+          "no": 1,
+          "arab": "",
+          "terjemahan": "",
+          "nota": "Isikan ringkasan kisah Israk Mikraj sebagaimana dihuraikan dalam kitab, serta penutup doa dan nasihat terakhir."
+        }
+      ]
+    }
+  ],
+  "audio": {
+    'mode': 'full',
+    "url": "",
+    "nota": "Jika ada rakaman pengajian kitab ini (YouTube/MP3), letak URL audio penuh di sini untuk dijadikan audio bacaan tanpa sync perenggan."
   }
-]
+}
