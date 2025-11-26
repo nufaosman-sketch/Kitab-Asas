@@ -1,23 +1,33 @@
 [
   {
-    "id": "wiridulathif-bm-rs",
-    "nama": "Wiridulathif BM RS",
-    "kategori": "Wirid & Zikir",
-    "json": "json/wiridulathif-bm-rs.json",
-    "pdf": "Wiridulathif BM RS.pdf"
-  },
+    "id": "amalan-hari-asyura-080822",
+    "nama": "AMALAN HARI ASYURA 080822",
+    "kategori": "Belum dikategori",
+    "json": "json/amalan-hari-asyura-080822.json",
+    "pdf": "AMALAN HARI ASYURA 080822.pdf"
+  }
+,
+  {
+    "id": "500",
+    "nama": "500",
+    "kategori": "Belum dikategori",
+    "json": "json/500.json",
+    "pdf": "500.pdf"
+  }
+,
   {
     "id": "terjemahan-nirudzzolam",
     "nama": "Terjemahan Nirudzzolam",
-    "kategori": "Kitab Tauhid / Akidah (Terjemahan)",
+    "kategori": "Belum dikategori",
     "json": "json/terjemahan-nirudzzolam.json",
     "pdf": "Terjemahan Nirudzzolam.pdf"
-  },
+  }
+,
   {
-    "id": "amalan-hari-asyura-080822",
-    "nama": "Amalan Hari Asyura 080822",
-    "kategori": "Amalan / Wirid Harian",
-    "json": "json/amalan-hari-asyura-080822.json",
-    "pdf": "AMALAN HARI ASYURA 080822.pdf"
+    "id": "wirdulathif-bm-rs",
+    "nama": "Wirdulathif BM RS",
+    "kategori": "Belum dikategori",
+    "json": "json/wirdulathif-bm-rs.json",
+    "pdf": "Wirdulathif BM RS.pdf"
   }
 ]
